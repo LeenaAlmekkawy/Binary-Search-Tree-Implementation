@@ -1,5 +1,5 @@
 # Binary-Search-Tree-Implementation
-*In binary search tree each node can hae at most 2 children__
+*In binary search tree each node can hae at most 2 children __
 *Basic functions in Binary search Tree__
  -"struct BstNode": Definition of Node for Binary search tree
  -"GetNewNode": Function to create a new Node in heap
